@@ -1,4 +1,4 @@
-# Scraper Shop
+# Django sass
 ### Made with Django
 
 ### Setup:
